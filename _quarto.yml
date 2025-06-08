@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "New Website"
+  title: "New Website, second edition"
   navbar:
     left:
       - href: index.qmd
